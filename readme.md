@@ -1,4 +1,4 @@
-## MadLib Console App in .NET
+## MadLib Console App in C# / .NET
 
 To run this console app on your local machine, follow these steps...
 
